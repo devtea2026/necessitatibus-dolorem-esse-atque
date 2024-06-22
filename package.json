@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/necessitatibus-dolorem-esse-atque",
-  "version": "3.5.45",
+  "version": "3.5.46",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -407,5 +407,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/necessitatibus-dolorem-esse-atque/issues"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.1"
 }
